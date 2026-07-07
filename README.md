@@ -94,19 +94,19 @@ API-Analysis-System
 
 -------------------------------------------------------------------------------------------------------------
 ETL Workflow
-Step 1: Extract
+**Step 1: Extract**
 
 Connected to REST APIs using the Requests library.
 Retrieved Categories, Users, and Products data.
 Stored raw responses as JSON files.
 
-Step 2: Transform
+**Step 2: Transform**
 
 Converted JSON data into CSV format using Pandas.
 Converted JSON data into XML format using DicttoXML.
 Converted JSON data into Parquet format using PyArrow.
 
-Step 3: Load
+**Step 3: Load**
 
 Loaded CSV data into MySQL tables using SQLAlchemy and PyMySQL.
 Automatically created database tables.
