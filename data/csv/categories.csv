@@ -1,0 +1,8 @@
+id,name,slug,image,creationAt,updatedAt
+1,Clothes,clothes,https://i.imgur.com/QkIa5tT.jpeg,2026-07-06T23:51:29.000Z,2026-07-06T23:51:29.000Z
+2,QueryreteFailedError,queryretefailederror,https://i.imgur.com/ZANVnHE.jpeg,2026-07-06T23:51:29.000Z,2026-07-07T05:25:02.000Z
+3,Furniture,furniture,https://i.imgur.com/Qphac99.jpeg,2026-07-06T23:51:29.000Z,2026-07-06T23:51:29.000Z
+4,Shoes,shoes,https://i.imgur.com/qNOjJje.jpeg,2026-07-06T23:51:29.000Z,2026-07-06T23:51:29.000Z
+5,nombre -> put ,nombre-put,https://i.imgur.com/BG8J0Fj.jpg,2026-07-06T23:51:29.000Z,2026-07-07T03:06:22.000Z
+6,Test Category,test-category,https://test.com/img.jpg,2026-07-07T00:43:53.000Z,2026-07-07T00:43:53.000Z
+8,Testing Category,testing-category,https://placeimg.com/640/480/any,2026-07-07T06:01:32.000Z,2026-07-07T06:01:32.000Z

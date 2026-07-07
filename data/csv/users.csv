@@ -1,0 +1,11 @@
+id,email,password,name,role,avatar,creationAt,updatedAt
+1,john@mail.com,changeme,Jhon,customer,https://i.imgur.com/LDOO4Qs.jpg,2026-07-06T23:51:29.000Z,2026-07-06T23:51:29.000Z
+2,maria@mail.com,12345,Maria,customer,https://i.imgur.com/DTfowdu.jpg,2026-07-06T23:51:29.000Z,2026-07-06T23:51:29.000Z
+3,admin@mail.com,admin123,Admin,admin,https://i.imgur.com/yhW6Yw1.jpg,2026-07-06T23:51:29.000Z,2026-07-06T23:51:29.000Z
+5,ellozada@mail.com,clave1234,Erick,customer,https://i.imgur.com/LDOO4Qs.png,2026-07-07T03:03:07.000Z,2026-07-07T03:03:07.000Z
+6,nico@gmail.com,1234,Aswathy,customer,https://picsum.photos/800,2026-07-07T05:42:48.000Z,2026-07-07T05:42:48.000Z
+7,nico@gmail.com,1234,gggrrrrssd,customer,https://picsum.photos/800,2026-07-07T07:01:55.000Z,2026-07-07T07:01:55.000Z
+8,nico@gmail.com,1234,gggrrrrssd,customer,https://picsum.photos/800,2026-07-07T07:02:53.000Z,2026-07-07T07:02:53.000Z
+9,nico@gmail.com,1234,gggrrrrssd,customer,https://picsum.photos/800,2026-07-07T07:14:27.000Z,2026-07-07T07:14:27.000Z
+10,nico@gmail.com,1234,gggrrrrssd,customer,https://picsum.photos/800,2026-07-07T07:15:36.000Z,2026-07-07T07:15:36.000Z
+11,nico@gmail.com,1234,gggrrrrssd,customer,https://picsum.photos/800,2026-07-07T07:17:18.000Z,2026-07-07T07:17:18.000Z

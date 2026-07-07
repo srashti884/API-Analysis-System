@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Clothes",
+        "slug": "clothes",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg",
+        "creationAt": "2026-07-06T23:51:29.000Z",
+        "updatedAt": "2026-07-06T23:51:29.000Z"
+    },
+    {
+        "id": 2,
+        "name": "QueryreteFailedError",
+        "slug": "queryretefailederror",
+        "image": "https://i.imgur.com/ZANVnHE.jpeg",
+        "creationAt": "2026-07-06T23:51:29.000Z",
+        "updatedAt": "2026-07-07T05:25:02.000Z"
+    },
+    {
+        "id": 3,
+        "name": "Furniture",
+        "slug": "furniture",
+        "image": "https://i.imgur.com/Qphac99.jpeg",
+        "creationAt": "2026-07-06T23:51:29.000Z",
+        "updatedAt": "2026-07-06T23:51:29.000Z"
+    },
+    {
+        "id": 4,
+        "name": "Shoes",
+        "slug": "shoes",
+        "image": "https://i.imgur.com/qNOjJje.jpeg",
+        "creationAt": "2026-07-06T23:51:29.000Z",
+        "updatedAt": "2026-07-06T23:51:29.000Z"
+    },
+    {
+        "id": 5,
+        "name": "nombre -> put ",
+        "slug": "nombre-put",
+        "image": "https://i.imgur.com/BG8J0Fj.jpg",
+        "creationAt": "2026-07-06T23:51:29.000Z",
+        "updatedAt": "2026-07-07T03:06:22.000Z"
+    },
+    {
+        "id": 6,
+        "name": "Test Category",
+        "slug": "test-category",
+        "image": "https://test.com/img.jpg",
+        "creationAt": "2026-07-07T00:43:53.000Z",
+        "updatedAt": "2026-07-07T00:43:53.000Z"
+    },
+    {
+        "id": 8,
+        "name": "Testing Category",
+        "slug": "testing-category",
+        "image": "https://placeimg.com/640/480/any",
+        "creationAt": "2026-07-07T06:01:32.000Z",
+        "updatedAt": "2026-07-07T06:01:32.000Z"
+    }
+]
