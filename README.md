@@ -1,4 +1,4 @@
-API Analysis System - ETL Pipeline Using Python & MySQL
+# API Analysis System - ETL Pipeline Using Python & MySQL
 Project Overview
 The API Analysis System is an End-to-End ETL (Extract, Transform, Load) pipeline developed using Python. The project extracts data from multiple REST APIs, stores the raw data in JSON format, transforms it into CSV, XML, and Parquet formats, and loads the processed data into a MySQL database.
 This project demonstrates practical Data Engineering concepts including API integration, data transformation, data storage, and database loading.
